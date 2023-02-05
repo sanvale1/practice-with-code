@@ -1,6 +1,6 @@
 ---
 
-# Notes:
+# Notes  :
 # Sample project C code is not presently written to produce a release artifact.
 # As such, release build options are disabled.
 # This sample, therefore, only demonstrates running a collection of unit tests.
